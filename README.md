@@ -17,7 +17,7 @@ Live sync: see all dates from everyone, instantly — powered by Multisynq
 
 Save to chain: commit your guess to the Monad testnet smart contract (scan)
 
-🛠️ Tech stack
+Tech stack
 React
 
 Multisynq (real-time synchronization)
@@ -26,7 +26,7 @@ Monad Testnet (smart contract)
 
 Vercel (deploy)
 
-🧙 How it works
+How it works
 Open the app (tegemona.vercel.app)
 
 Connect your wallet
